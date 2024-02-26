@@ -6,7 +6,7 @@ game 'gta5'
 -- Resource Information
 name 'Fishing System'
 author 'Acid'
-version '1.0.0'
+version '1.0.1'
 description 'Fishing System By Acid - https://acid.tebex.io/'
 
 shared_script {
